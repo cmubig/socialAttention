@@ -1,1 +1,0 @@
-to run the service, put the fully trained NaviGAN pytorch model under ./navigan/model/ folder and provide its path in the python scripts by specifying $CHECKPOINT
